@@ -1,0 +1,6 @@
+---
+- name: packages installation
+  hosts: prod
+  roles:
+    - printfacts
+
