@@ -1,10 +1,6 @@
 ---
 galaxy_info:
   author: Giuseppe Glorioso (giig@disroot.org)
-  description: Restore my arch
+  description: Print facts
   license: GPL-2.0-or-later
-  platforms:
-    - name: Archlinux
 
-dependencies:
-  - role: shared
